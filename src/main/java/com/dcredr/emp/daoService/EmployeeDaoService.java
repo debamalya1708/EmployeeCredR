@@ -1,10 +1,9 @@
 package com.dcredr.emp.daoService;
 
-import com.dcredr.emp.model.EmployeeSearch;
-import com.dcredr.emp.model.EmployeeResponse;
+import com.dcredr.emp.entities.EmployeeSearch;
+import com.dcredr.emp.entities.EmployeeResponse;
 
 import java.util.List;
-import java.util.Map;
 
 public interface EmployeeDaoService {
 
